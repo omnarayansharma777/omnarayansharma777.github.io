@@ -2,7 +2,7 @@
 
 Hi, I am Om Narayan Sharma, a student at IIT Goa. I am interested in computer science and programming. I use this GitHub profile to showcase my projects and assignments. Follow me to stay updated!
 
-! [om narayan sharma](https://github.com/omnarayansharma777/omsharma.github.io/blob/main/IMG20221218084348%20(1).jpg?raw=true)
+![om narayan sharma](https://github.com/omnarayansharma777/omsharma.github.io/raw/main/IMG20221218084348%20(1).jpg?raw=true)
 
 ## Skills and Interests
 - Programming in Python, and C++
