@@ -26,7 +26,7 @@ Hi, I am Om Narayan Sharma, a student at IIT Goa.I am from kanpur,uttar pradesh.
 - **PH103** -(physics lab) -*(Vaibhav Wasnik)*
 - **BIO101** -(INTRODUCTION TO BIOLOGY) -*(NIPA CHONGDAR)*
 - **EE101** -(Introduction to Electrical & Electronic Engineering) -*(Bidhan Pramanick)
-- 
+
 ## hobbies and interest
 
 
