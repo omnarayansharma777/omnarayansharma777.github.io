@@ -22,7 +22,6 @@ Hi, I am Om Narayan Sharma, a student at IIT Goa.I am from kanpur,uttar pradesh.
 - **EE101** -(Introduction to Electrical & Electronic Engineering) -*(Bidhan Pramanick)
 ## hobbies and interest
 
-![1](https://as1.ftcdn.net/v2/jpg/04/67/08/28/1000_F_467082848_TTm2FNb0iVvdDnrJDmIHAK0jBbC1vxYu.jpg)
 
 I love to visit waterfall ,beach and forest.
 i like to play vollyball.
