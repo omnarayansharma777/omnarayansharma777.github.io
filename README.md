@@ -1,21 +1,28 @@
-# Om Narayan Sharma - IIT Goa Student
+# about me
 
-Hi, I am Om Narayan Sharma, a student at IIT Goa. I am interested in computer science and programming. I use this GitHub profile to showcase my projects and assignments. Follow me to stay updated!
+Hi, I am Om Narayan Sharma, a student at IIT Goa.I am from kanpur,uttar pradesh. I am interested in computer science and programming. I use this GitHub profile to showcase my projects and assignments. Follow me to stay updated!
+- [LinkedIn](https://www.linkedin.com/in/om-narayan-sharma-172717253)
 
 ![om narayan sharma](https://github.com/omnarayansharma777/omsharma.github.io/raw/main/IMG20221218084348%20(1).jpg?raw=true)
 
-## Skills and Interests
-- Programming in Python, and C++
-- Web development using HTML, CSS, and JavaScript
+## education
+|ACADEMIC YEAR | STANDARD | SCHOOL NAME|
+|--------------|----------|------------|
+|   2019       |  10      | P.V.N.     |
+|   2021       |  12      | P.V.N.     |
 
-## Personal Details
-- Date of Birth: August 1, 2005
-- Gender: Male
+## course at IIT goa
 
-## Other Profiles
-- [LinkedIn](https://www.linkedin.com/in/om-narayan-sharma-172717253)
+- **MA102** -(VECTOR SPACE)- *KALPESH HARIA*
+- **MA103** -(DIFFERCTIAL EQ.)- *Saumya Bajpai*
+- **PH102** -(ELECRTICITY AND MAGNETISM)- *SANTOSH KUMAR*
+- **CS102** -(SOFTWARE TOOLS) -*CLINT P.GEORGE*
+- **PH103** -(physics lab) -*(Vaibhav Wasnik)*
+- **BIO101** -(INTRODUCTION TO BIOLOGY) -*(NIPA CHONGDAR)*
+- **EE101** -(Introduction to Electrical & Electronic Engineering) -*(Bidhan Pramanick)
+## hobbies and interest
 
-## Projects
-- no project
-## Contact Me
-- Email: sharma1380992@gmail.com
+![1](https://as1.ftcdn.net/v2/jpg/04/67/08/28/1000_F_467082848_TTm2FNb0iVvdDnrJDmIHAK0jBbC1vxYu.jpg)
+
+I love to visit waterfall ,beach and forest.
+i like to play vollyball.
